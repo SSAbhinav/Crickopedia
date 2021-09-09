@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 1000;
 
 
-
+//ww
 //const url='mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false';
 const url =
   'mongodb+srv://personaldb.9iqr5.mongodb.net/CustomerDB" --username Abhi_01 --password dsrfgob114';
